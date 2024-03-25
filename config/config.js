@@ -1,5 +1,5 @@
 module.exports = {
-    DBHOST:"127.0.01",
+    DBHOST:"127.0.0.1",
     DBPORT: 27017,
-    DBNAME:"Echo"
+    DBNAME:"echo"
 }

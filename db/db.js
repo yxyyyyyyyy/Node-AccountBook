@@ -1,8 +1,6 @@
 
 const config = require("../config/config")
 module.exports = function (success , error) {
-    const mongoose = require('mongoose');
-
     // 1. 导入mongoose
     const mongoose = require('mongoose');
 
